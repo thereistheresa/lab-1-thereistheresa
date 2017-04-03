@@ -28,6 +28,13 @@
 
 #* 3)
 
-#* Section 5 (Test Cases with Mutation)
+#* Section 5 (Whole Functions)
 
 #* 1)
+
+#* 2)
+
+#* 3)
+
+#* 4)
+
